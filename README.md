@@ -1,6 +1,6 @@
 # ClaviaNE2_MidiRotaryControl
 
-Using a three halfmoon like switch we can send the command to control the rotary emulator on Clavia Nord Electro 3.
+Using a three halfmoon like switch we can send the command to control the rotary emulator on Clavia Nord Electro 2.
 Circuit is simple, using a PIC16F84
 
 Command sent:
